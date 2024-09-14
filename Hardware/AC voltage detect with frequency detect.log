@@ -1,0 +1,25 @@
+Circuit: * F:\Daniel\Documents\GitHub\Voltmeter\Hardware\AC voltage detect with frequency detect.asc
+
+WARNING: Less than two connections to node N010.  This node is used by D3.
+WARNING: Less than two connections to node N008.  This node is used by D4.
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 0.0440712 to 0.0440712
+Heightened Def Con from 0.624209 to 0.624209
+
+Date: Sat Sep 14 23:30:52 2024
+Total elapsed time: 0.374 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 73992
+traniter = 73956
+tranpoints = 20388
+accept = 14471
+rejected = 5919
+matrix size = 23
+fillins = 6
+solver = Normal
+Matrix Compiler1: 1.42 KB object code size  0.4/0.2/[0.1]
+Matrix Compiler2: 1.89 KB object code size  0.1/0.3/[0.1]
+
