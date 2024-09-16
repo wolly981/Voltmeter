@@ -3,4 +3,5 @@
   (lib (name "ADC")(type "KiCad")(uri "${KIPRJMOD}/Ultra Librarian/ul_MCP3204-CI-P/KiCADv6/2024-09-14_22-35-21.kicad_sym")(options "")(descr ""))
   (lib (name "Regulator Isolator")(type "KiCad")(uri "${KIPRJMOD}/Ultra Librarian/ul_NME1205DC/KiCADv6/2024-09-10_19-31-40.kicad_sym")(options "")(descr ""))
   (lib (name "Optocoupler")(type "KiCad")(uri "${KIPRJMOD}/Ultra Librarian/ul_LTV-847/KiCADv6/2024-09-14_23-38-05.kicad_sym")(options "")(descr ""))
+  (lib (name "Linear Regulator")(type "KiCad")(uri "${KIPRJMOD}/Ultra Librarian/ul_L7805CV/KiCADv6/2024-09-16_10-39-45.kicad_sym")(options "")(descr ""))
 )
